@@ -2,9 +2,9 @@
 
 ## Steps to run the code
 
-* Download/clone (using https) the following repository
+* Download/clone (using SSH) the following repository
   
-    `git clone https://gitlab.devops.telekom.de/ashmi.banerjee/html-workshop-2021.git`
+    `git clone git@github.com:ashmibanerjee/dt-html-workshop.git`
   
 * Open the downloaded/cloned project in your favourite (default) editor
 * Now we go through the code (`sample code/sample.html`), understand it and modify as required
